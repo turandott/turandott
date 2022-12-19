@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 
 - 🔭 I’m currently working on **diplom project**
@@ -16,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turandott&show_icons=true&locale=en" alt="turandott" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turandott&" alt="turandott" /></p>
