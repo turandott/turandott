@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olga</h1>
+<h1 align="center">Hi 👋</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turandott" alt="turandott" /></a> </p>
 
 - 🔭 I’m currently working on **diplom project**
