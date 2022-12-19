@@ -1,12 +1,17 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on diplom project
+- 🌱 I’m currently learning Ruby on Rails, JavaScript, React 
+- 👯 I’m looking to collaborate on to write a visual novel
+
 <!--
 **turandott/turandott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
