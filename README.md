@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, JavaScript, React**
 
-- 👯 I’m looking to collaborate on **to write a visual novel:^)**
-
 - 📫 How to reach me **greyvilka@gmail.com**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turandott&layout=compact)](https://github.com/turandott/github-readme-stats)
