@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
 
-- 🔭 I’m currently working on **diplom project**
+- 🔭 I’m currently working as **Full-stack**
 
-- 🌱 I’m currently learning **Ruby on Rails, JavaScript, React**
+- 🌱 I’m currently using this technologies **Ruby on Rails, JavaScript, React, Vue**
 
 - 📫 How to reach me **greyvilka@gmail.com**
 
