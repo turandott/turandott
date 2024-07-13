@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 
-- 🔭 I’m currently working as **Full-stack**
+- 🔭 I’m currently working as **Full-stack** engineer
 
 - 🌱 I’m currently using this technologies **Ruby on Rails, JavaScript, React, Vue**
 
